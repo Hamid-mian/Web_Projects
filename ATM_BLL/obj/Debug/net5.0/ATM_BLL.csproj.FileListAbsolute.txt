@@ -1,0 +1,20 @@
+C:\Users\Muhammad Hamid Iqbal\source\repos\ATM\ATM_BLL\bin\Debug\net5.0\ATM_BLL.deps.json
+C:\Users\Muhammad Hamid Iqbal\source\repos\ATM\ATM_BLL\bin\Debug\net5.0\ATM_BLL.dll
+C:\Users\Muhammad Hamid Iqbal\source\repos\ATM\ATM_BLL\bin\Debug\net5.0\ref\ATM_BLL.dll
+C:\Users\Muhammad Hamid Iqbal\source\repos\ATM\ATM_BLL\bin\Debug\net5.0\ATM_BLL.pdb
+C:\Users\Muhammad Hamid Iqbal\source\repos\ATM\ATM_BLL\bin\Debug\net5.0\ATM_BO.dll
+C:\Users\Muhammad Hamid Iqbal\source\repos\ATM\ATM_BLL\bin\Debug\net5.0\ATM_DAL.dll
+C:\Users\Muhammad Hamid Iqbal\source\repos\ATM\ATM_BLL\bin\Debug\net5.0\ATM_DAL.pdb
+C:\Users\Muhammad Hamid Iqbal\source\repos\ATM\ATM_BLL\bin\Debug\net5.0\ATM_BO.pdb
+C:\Users\Muhammad Hamid Iqbal\source\repos\ATM\ATM_BLL\obj\Debug\net5.0\ATM_BLL.csproj.AssemblyReference.cache
+C:\Users\Muhammad Hamid Iqbal\source\repos\ATM\ATM_BLL\obj\Debug\net5.0\ATM_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Hamid Iqbal\source\repos\ATM\ATM_BLL\obj\Debug\net5.0\ATM_BLL.AssemblyInfoInputs.cache
+C:\Users\Muhammad Hamid Iqbal\source\repos\ATM\ATM_BLL\obj\Debug\net5.0\ATM_BLL.AssemblyInfo.cs
+C:\Users\Muhammad Hamid Iqbal\source\repos\ATM\ATM_BLL\obj\Debug\net5.0\ATM_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Hamid Iqbal\source\repos\ATM\ATM_BLL\obj\Debug\net5.0\ATM_BLL.csproj.CopyComplete
+C:\Users\Muhammad Hamid Iqbal\source\repos\ATM\ATM_BLL\obj\Debug\net5.0\ATM_BLL.dll
+C:\Users\Muhammad Hamid Iqbal\source\repos\ATM\ATM_BLL\obj\Debug\net5.0\ref\ATM_BLL.dll
+C:\Users\Muhammad Hamid Iqbal\source\repos\ATM\ATM_BLL\obj\Debug\net5.0\ATM_BLL.pdb
+C:\Users\bsef1\source\repos\ATM\ATM_BLL\obj\Debug\net5.0\ATM_BLL.dll
+C:\Users\bsef1\source\repos\ATM\ATM_BLL\obj\Debug\net5.0\ref\ATM_BLL.dll
+C:\Users\bsef1\source\repos\ATM\ATM_BLL\obj\Debug\net5.0\ATM_BLL.pdb
