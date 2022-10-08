@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EMS_bo/1.0.0": {
+        "runtime": {
+          "EMS_bo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EMS_bo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

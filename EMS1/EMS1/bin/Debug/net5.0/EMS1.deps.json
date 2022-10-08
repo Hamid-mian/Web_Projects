@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EMS1/1.0.0": {
+        "dependencies": {
+          "EMS_view": "1.0.0"
+        },
+        "runtime": {
+          "EMS1.dll": {}
+        }
+      },
+      "EMS_BLL/1.0.0": {
+        "dependencies": {
+          "EMS_DAL": "1.0.0",
+          "EMS_bo": "1.0.0"
+        },
+        "runtime": {
+          "EMS_BLL.dll": {}
+        }
+      },
+      "EMS_bo/1.0.0": {
+        "runtime": {
+          "EMS_bo.dll": {}
+        }
+      },
+      "EMS_DAL/1.0.0": {
+        "dependencies": {
+          "EMS_bo": "1.0.0"
+        },
+        "runtime": {
+          "EMS_DAL.dll": {}
+        }
+      },
+      "EMS_view/1.0.0": {
+        "dependencies": {
+          "EMS_BLL": "1.0.0",
+          "EMS_bo": "1.0.0"
+        },
+        "runtime": {
+          "EMS_view.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EMS1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EMS_BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EMS_bo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EMS_DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EMS_view/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

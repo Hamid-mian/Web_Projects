@@ -1,0 +1,15 @@
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_DAL\bin\Debug\net5.0\EMS_DAL.deps.json
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_DAL\bin\Debug\net5.0\EMS_DAL.dll
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_DAL\bin\Debug\net5.0\ref\EMS_DAL.dll
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_DAL\bin\Debug\net5.0\EMS_DAL.pdb
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_DAL\bin\Debug\net5.0\EMS_bo.dll
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_DAL\bin\Debug\net5.0\EMS_bo.pdb
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_DAL\obj\Debug\net5.0\EMS_DAL.csproj.AssemblyReference.cache
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_DAL\obj\Debug\net5.0\EMS_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_DAL\obj\Debug\net5.0\EMS_DAL.AssemblyInfoInputs.cache
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_DAL\obj\Debug\net5.0\EMS_DAL.AssemblyInfo.cs
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_DAL\obj\Debug\net5.0\EMS_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_DAL\obj\Debug\net5.0\EMS_DAL.csproj.CopyComplete
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_DAL\obj\Debug\net5.0\EMS_DAL.dll
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_DAL\obj\Debug\net5.0\ref\EMS_DAL.dll
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_DAL\obj\Debug\net5.0\EMS_DAL.pdb

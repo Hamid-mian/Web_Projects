@@ -1,0 +1,12 @@
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_bo\bin\Debug\net5.0\EMS_bo.deps.json
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_bo\bin\Debug\net5.0\EMS_bo.dll
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_bo\bin\Debug\net5.0\ref\EMS_bo.dll
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_bo\bin\Debug\net5.0\EMS_bo.pdb
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_bo\obj\Debug\net5.0\EMS_bo.csproj.AssemblyReference.cache
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_bo\obj\Debug\net5.0\EMS_bo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_bo\obj\Debug\net5.0\EMS_bo.AssemblyInfoInputs.cache
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_bo\obj\Debug\net5.0\EMS_bo.AssemblyInfo.cs
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_bo\obj\Debug\net5.0\EMS_bo.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_bo\obj\Debug\net5.0\EMS_bo.dll
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_bo\obj\Debug\net5.0\ref\EMS_bo.dll
+C:\Users\Muhammad Hamid Iqbal\source\repos\EMS1\EMS_bo\obj\Debug\net5.0\EMS_bo.pdb
